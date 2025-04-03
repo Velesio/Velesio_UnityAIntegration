@@ -1,24 +1,19 @@
-# 📦 Veles Unity Integration
+# 📦 Velesio Unity AIntegration
 
-**Veles** is a next-generation AI integration framework for Unity developers, built to simplify and supercharge the way games interact with powerful language and diffusion models.
-
-Whether you're building immersive NPCs, intelligent agents, or AI-driven tools, Veles gives you a seamless plug-and-play interface to tap into both local and cloud-hosted AI systems — all from within Unity.
+**Velesio AIntegration* is a Unity package meant for easily creating AI experiences in Unity. Designed to work with the [Velesio AIServer](https://github.com/Velesio/Velesio-AIServer) for remote access to llamnacpp and Stable-Diffusion. LLamaCPP models can run on the local device as well.
 
 ---
 
-## ✨ Key Features (Coming Soon)
+## ✨ Key Features
 
 - ⚡ **Drop-in AI functionality** for Unity — no heavy setup required  
 - 🧠 Connect to **locally hosted** LLMs and diffusion models (for offline or power users)  
-- ☁️ Or use our **cloud API**, hosted on RunPod and optimized for performance  
 - 💬 Enable **AI conversations, behaviors, or image generation** directly in your game world  
 - 🛠️ Built to be **open, extensible, and developer-friendly**  
 
 ---
 
 ## 📡 API Access (Coming Soon)
-
-Users will be able to connect to our hosted Veles AI backend, paying only per API call. Ideal for developers who want powerful AI features without the need to manage local models.
 
 > You’ll always be able to use your **own local setup** or fully self-host if preferred.
 

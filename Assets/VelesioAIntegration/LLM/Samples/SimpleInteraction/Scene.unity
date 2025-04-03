@@ -478,8 +478,8 @@ MonoBehaviour:
   remote: 1
   _llm: {fileID: 1047848254}
   APIKey: 
-  host: https://70ipzg9ce0qixe-1337.proxy.runpod.net
-  port: 0
+  host: localhost
+  port: 1337
   numRetries: 10
   save: 
   saveCache: 0
