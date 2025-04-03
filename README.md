@@ -2,6 +2,12 @@
 
 **Velesio AIntegration* is a Unity package meant for easily creating AI experiences in Unity. Designed to work with the [Velesio AIServer](https://github.com/Velesio/Velesio-AIServer) for remote access to llamnacpp and Stable-Diffusion. LLamaCPP models can run on the local device as well.
 
+Host Velesio AIServer: 
+[Runpod template](https://www.runpod.io/console/explore/07cky3lznr) to host self-host this in the cloud.
+[Docker](https://hub.docker.com/repository/docker/teocholakov/velesio-aiserver)
+
+[Discord](https://discord.gg/pMB6w3mJyF) for support and ideas
+
 ---
 
 ## ✨ Key Features
