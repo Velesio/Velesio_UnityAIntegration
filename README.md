@@ -45,6 +45,8 @@ Veles is in early development. Stay tuned for:
 - ✅ Unity Package Manager support  
 - ✅ Unity Editor integration  
 - ✅ Documentation & API access  
-- ✅ Community Discord  
+- ✅ Community Discord
+- ✅ Flux support
+- ✅ Proprietary models support
 
 Follow the repo, drop a ⭐, and join the journey!
