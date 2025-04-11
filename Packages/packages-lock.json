@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "ai.undream.llm": {
+      "version": "https://github.com/undreamai/LLMUnity.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "04daedb5e64ba68d9f790207de398689cd8fe2ff"
+    },
     "com.unity.ai.navigation": {
       "version": "2.0.6",
       "depth": 0,

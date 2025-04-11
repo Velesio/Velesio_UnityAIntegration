@@ -1,0 +1,20 @@
+{
+    "name": "VelesioAIntegration.Editor",
+    "rootNamespace": "Velesio.Editor",
+    "references": [
+        "GUID:21b0c8d1703a94250bfac916590cea4f",
+        "GUID:54b1f690252174025b1c6ac3a52daa7d",
+        "VelesioAIntegration"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

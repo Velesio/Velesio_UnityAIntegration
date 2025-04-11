@@ -1,0 +1,21 @@
+{
+    "name": "velesio.aintegration",
+    "version": "1.0.0",
+    "displayName": "Velesio AIntegration",
+    "description": "Seamless integration for locally hosted AI and the Velesio AI Server.",
+    "unity": "6000.0.43f1",
+    "author": {
+      "name": "TeoVibe"
+    },
+    "dependencies": {
+      "com.undreamai.llmunity": "https://github.com/undreamai/LLMUnity.git#2.5.0",
+      "com.stablediffusion.unity": "https://github.com/dobrado76/Stable-Diffusion-Unity-Integration.git#main"
+    },
+    "samples": [
+      {
+        "displayName": "Example Sample",
+        "description": "An example of using this package",
+        "path": "Samples~/Example Sample"
+      }
+    ]
+}
